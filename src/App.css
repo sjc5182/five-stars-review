@@ -9,7 +9,7 @@
   justify-content: center;
   align-items: center;
 }
-
+/* prefer grid */
 .innerWraper {
   width: 300px;
   display: flex;
